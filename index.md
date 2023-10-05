@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Author](/assets/images/author.jpg)我们伟大的作者:Dongdong!</span>
+<!-- ![Author](/assets/images/author.jpg)我们伟大的作者:Dongdong! -->
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 

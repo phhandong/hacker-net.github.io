@@ -2,3 +2,8 @@
 ---
 
 @import 'jekyll-theme-hacker';
+
+.author-image {
+  width: 100px; /* 设置图片宽度 */
+  height: auto; /* 自动计算图片高度，保持比例 */
+}
