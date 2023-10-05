@@ -116,7 +116,7 @@ if __name__ == '__main__':
 <dt>Born</dt>
 <dd>1953</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>China</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
